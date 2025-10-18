@@ -1,4 +1,4 @@
-name: Nightly SideStore Build
+name: Nightly SideStore7 Build
 on:
   push:
     branches:
